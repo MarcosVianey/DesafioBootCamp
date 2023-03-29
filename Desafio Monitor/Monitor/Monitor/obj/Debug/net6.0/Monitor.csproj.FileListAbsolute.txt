@@ -1,0 +1,15 @@
+C:\Desafio\Monitor\Monitor\bin\Debug\net6.0\Monitor.exe
+C:\Desafio\Monitor\Monitor\bin\Debug\net6.0\Monitor.deps.json
+C:\Desafio\Monitor\Monitor\bin\Debug\net6.0\Monitor.runtimeconfig.json
+C:\Desafio\Monitor\Monitor\bin\Debug\net6.0\Monitor.dll
+C:\Desafio\Monitor\Monitor\bin\Debug\net6.0\Monitor.pdb
+C:\Desafio\Monitor\Monitor\obj\Debug\net6.0\Monitor.csproj.AssemblyReference.cache
+C:\Desafio\Monitor\Monitor\obj\Debug\net6.0\Monitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desafio\Monitor\Monitor\obj\Debug\net6.0\Monitor.AssemblyInfoInputs.cache
+C:\Desafio\Monitor\Monitor\obj\Debug\net6.0\Monitor.AssemblyInfo.cs
+C:\Desafio\Monitor\Monitor\obj\Debug\net6.0\Monitor.csproj.CoreCompileInputs.cache
+C:\Desafio\Monitor\Monitor\obj\Debug\net6.0\Monitor.dll
+C:\Desafio\Monitor\Monitor\obj\Debug\net6.0\refint\Monitor.dll
+C:\Desafio\Monitor\Monitor\obj\Debug\net6.0\Monitor.pdb
+C:\Desafio\Monitor\Monitor\obj\Debug\net6.0\Monitor.genruntimeconfig.cache
+C:\Desafio\Monitor\Monitor\obj\Debug\net6.0\ref\Monitor.dll
